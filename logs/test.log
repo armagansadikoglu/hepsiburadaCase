@@ -1,0 +1,123 @@
+2021-12-26 21:48:53.056 [main] INFO  Pages.MainPage - Clicked on Location
+2021-12-26 21:48:53.216 [main] INFO  Pages.MainPage - Clicked on City Selector
+2021-12-26 21:49:19.071 [main] INFO  Pages.MainPage - Item selected: İstanbul
+2021-12-26 21:49:19.741 [main] INFO  Pages.MainPage - Clicked on Town Selector
+2021-12-26 21:49:25.542 [main] INFO  Pages.MainPage - Item selected: Beşiktaş
+2021-12-26 21:49:26.215 [main] INFO  Pages.MainPage - Clicked on District Selector
+2021-12-26 21:49:38.806 [main] INFO  Pages.MainPage - Item selected: Yıldız
+2021-12-26 21:49:39.475 [main] INFO  Pages.MainPage - Clicked on save location
+2021-12-26 21:49:40.491 [main] INFO  Pages.MainPage - Location saved successfully
+2021-12-26 21:49:43.234 [main] INFO  Pages.MainPage - Clicked on categories
+2021-12-26 21:49:44.912 [main] INFO  Pages.CategoriesPage - Random Category Number : 0
+2021-12-26 21:49:49.705 [main] INFO  Pages.CategoryPage - TextView Location: İstanbul
+2021-12-26 21:50:17.363 [main] INFO  Pages.MainPage - Clicked on super prices
+2021-12-26 21:50:17.645 [main] INFO  Pages.SuperPricePage - Selected item with multiple images
+2021-12-26 21:51:30.066 [main] INFO  Pages.MainPage - Clicked on Location
+2021-12-26 21:51:30.246 [main] INFO  Pages.MainPage - Clicked on City Selector
+2021-12-26 21:52:49.281 [main] INFO  Pages.MainPage - Clicked on Location
+2021-12-26 21:52:49.473 [main] INFO  Pages.MainPage - Clicked on City Selector
+2021-12-26 21:53:13.069 [main] INFO  Pages.MainPage - Item selected: İstanbul
+2021-12-26 21:53:14.594 [main] INFO  Pages.MainPage - Clicked on Town Selector
+2021-12-26 21:53:19.690 [main] INFO  Pages.MainPage - Item selected: Beşiktaş
+2021-12-26 21:53:20.364 [main] INFO  Pages.MainPage - Clicked on District Selector
+2021-12-26 21:53:31.536 [main] INFO  Pages.MainPage - Item selected: Yıldız
+2021-12-26 21:53:32.201 [main] INFO  Pages.MainPage - Clicked on save location
+2021-12-26 21:53:33.007 [main] INFO  Pages.MainPage - Location saved successfully
+2021-12-26 21:53:35.919 [main] INFO  Pages.MainPage - Clicked on categories
+2021-12-26 21:53:37.545 [main] INFO  Pages.CategoriesPage - Random Category Number : 9
+2021-12-26 21:53:39.286 [main] INFO  Pages.CategoryPage - TextView Location: İstanbul
+2021-12-26 21:54:20.675 [main] INFO  Pages.MainPage - Clicked on super prices
+2021-12-26 21:54:21.015 [main] INFO  Pages.SuperPricePage - Selected item with multiple images
+2021-12-26 21:55:10.509 [main] INFO  Pages.ProductPage - Scrolled until the end
+2021-12-26 21:55:10.709 [main] INFO  Pages.ProductPage - Clicked on back button
+2021-12-26 21:56:34.390 [main] INFO  Pages.ProductPage - Clicked on favorites button
+2021-12-26 21:56:47.567 [main] INFO  Pages.LoginPage - Login Successful for armagansadikoglu@hotmail.com
+2021-12-26 21:57:08.761 [main] INFO  Pages.ProductPage - Clicked on back button
+2021-12-26 21:57:08.872 [main] INFO  Pages.MainPage - Clicked on my list
+2021-12-26 21:57:43.288 [main] INFO  Pages.ListPage - Recorded Price4.299,00 TL
+2021-12-26 21:57:43.289 [main] INFO  Pages.ListPage - Recorded TitleXiaomi Mi Robot Vacuum Mop Pro Beyaz - Akıllı Robot Süpürge
+2021-12-26 21:58:14.017 [main] INFO  Pages.ListPage - Item Price24,68 TL
+2021-12-26 21:58:44.367 [main] INFO  Pages.ListPage - Item TitleCaseart Samsung Galaxy M32 Temperli Ekran Koruyucu Kırılmaz Cam
+2021-12-26 21:59:15.424 [main] INFO  Pages.ProductPage - Clicked on back button
+2021-12-26 22:00:52.831 [main] INFO  Pages.MainPage - Clicked on super prices
+2021-12-26 22:00:53.115 [main] INFO  Pages.SuperPricePage - Selected item with multiple images
+2021-12-26 22:01:41.147 [main] INFO  Pages.ProductPage - Scrolled until the end
+2021-12-26 22:01:41.350 [main] INFO  Pages.ProductPage - Clicked on back button
+2021-12-26 22:03:05.268 [main] INFO  Pages.ProductPage - Clicked on favorites button
+2021-12-26 22:03:17.063 [main] INFO  Pages.LoginPage - Login Successful for armagansadikoglu@hotmail.com
+2021-12-26 22:03:38.605 [main] INFO  Pages.ProductPage - Clicked on back button
+2021-12-26 22:03:38.711 [main] INFO  Pages.MainPage - Clicked on my list
+2021-12-26 22:04:00.871 [main] INFO  Pages.ListPage - Recorded Price4.299,00 TL
+2021-12-26 22:04:00.871 [main] INFO  Pages.ListPage - Recorded TitleXiaomi Mi Robot Vacuum Mop Pro Beyaz - Akıllı Robot Süpürge
+2021-12-26 22:04:23.006 [main] INFO  Pages.ListPage - Item Price4.299,00 TL
+2021-12-26 22:04:53.384 [main] INFO  Pages.ListPage - Item TitleXiaomi Mi Robot Vacuum Mop Pro Beyaz - Akıllı Robot Süpürge
+2021-12-26 22:05:24.576 [main] INFO  Pages.ProductPage - Clicked on back button
+2021-12-26 22:06:51.216 [main] INFO  Pages.MainPage - Clicked on super prices
+2021-12-26 22:06:51.619 [main] INFO  Pages.SuperPricePage - Selected item with multiple images
+2021-12-26 22:07:38.851 [main] INFO  Pages.ProductPage - Scrolled until the end
+2021-12-26 22:07:39.082 [main] INFO  Pages.ProductPage - Clicked on back button
+2021-12-26 22:09:02.918 [main] INFO  Pages.ProductPage - Clicked on favorites button
+2021-12-26 22:09:14.788 [main] INFO  Pages.LoginPage - Login Successful for armagansadikoglu@hotmail.com
+2021-12-26 22:09:36.251 [main] INFO  Pages.ProductPage - Clicked on back button
+2021-12-26 22:09:36.384 [main] INFO  Pages.MainPage - Clicked on my list
+2021-12-26 22:10:08.223 [main] INFO  Pages.ListPage - Recorded Price4.299,00 TL
+2021-12-26 22:10:08.223 [main] INFO  Pages.ListPage - Recorded TitleXiaomi Mi Robot Vacuum Mop Pro Beyaz - Akıllı Robot Süpürge
+2021-12-26 22:10:30.455 [main] INFO  Pages.ListPage - Item Price4.299,00 TL
+2021-12-26 22:11:01.046 [main] INFO  Pages.ListPage - Item TitleXiaomi Mi Robot Vacuum Mop Pro Beyaz - Akıllı Robot Süpürge
+2021-12-26 22:12:42.876 [main] INFO  Pages.ProductPage - Clicked on favorites button
+2021-12-26 22:12:42.876 [main] INFO  Pages.ListPage - Item Removed From Favorites for retest
+2021-12-26 22:13:13.939 [main] INFO  Pages.ProductPage - Clicked on back button
+2021-12-26 22:16:02.958 [main] INFO  Pages.MainPage - Clicked on super prices
+2021-12-26 22:16:04.847 [main] INFO  Pages.SuperPricePage - Selected item with multiple images
+2021-12-26 22:16:55.845 [main] INFO  Pages.ProductPage - Scrolled until the end
+2021-12-26 22:16:56.080 [main] INFO  Pages.ProductPage - Clicked on back button
+2021-12-26 22:18:19.090 [main] INFO  Pages.ProductPage - Clicked on favorites button
+2021-12-26 22:20:16.992 [main] INFO  Pages.MainPage - Clicked on super prices
+2021-12-26 22:20:27.605 [main] INFO  Pages.SuperPricePage - Selected item with multiple images
+2021-12-26 22:21:16.934 [main] INFO  Pages.ProductPage - Scrolled until the end
+2021-12-26 22:21:17.133 [main] INFO  Pages.ProductPage - Clicked on back button
+2021-12-26 22:22:40.156 [main] INFO  Pages.ProductPage - Clicked on favorites button
+2021-12-26 22:22:54.880 [main] INFO  Pages.LoginPage - Login Successful for armagansadikoglu@hotmail.com
+2021-12-26 22:23:16.091 [main] INFO  Pages.ProductPage - Clicked on back button
+2021-12-26 22:23:16.215 [main] INFO  Pages.MainPage - Clicked on my list
+2021-12-26 22:23:53.043 [main] INFO  Pages.ListPage - Recorded Price4.299,00 TL
+2021-12-26 22:23:53.043 [main] INFO  Pages.ListPage - Recorded TitleXiaomi Mi Robot Vacuum Mop Pro Beyaz - Akıllı Robot Süpürge
+2021-12-26 22:24:54.031 [main] INFO  Pages.ListPage - Item Price4.299,00 TL
+2021-12-26 22:24:54.031 [main] INFO  Pages.ListPage - Item TitleXiaomi Mi Robot Vacuum Mop Pro Beyaz - Akıllı Robot Süpürge
+2021-12-26 22:26:35.883 [main] INFO  Pages.ProductPage - Clicked on favorites button
+2021-12-26 22:26:35.884 [main] INFO  Pages.ListPage - Item Removed From Favorites for retest
+2021-12-26 22:27:07.075 [main] INFO  Pages.ProductPage - Clicked on back button
+2021-12-26 22:27:07.080 [main] INFO  Pages.ListPage - Recorded and actual datas are equal
+2021-12-27 13:04:57.025 [main] INFO  Pages.MainPage - Clicked on Location
+2021-12-27 13:04:57.982 [main] INFO  Pages.MainPage - Clicked on City Selector
+2021-12-27 13:05:25.804 [main] INFO  Pages.MainPage - Item selected: İstanbul
+2021-12-27 13:05:26.730 [main] INFO  Pages.MainPage - Clicked on Town Selector
+2021-12-27 13:05:34.321 [main] INFO  Pages.MainPage - Item selected: Beşiktaş
+2021-12-27 13:05:35.274 [main] INFO  Pages.MainPage - Clicked on District Selector
+2021-12-27 13:05:51.229 [main] INFO  Pages.MainPage - Item selected: Yıldız
+2021-12-27 13:05:52.165 [main] INFO  Pages.MainPage - Clicked on save location
+2021-12-27 13:05:53.588 [main] INFO  Pages.MainPage - Location saved successfully
+2021-12-27 13:05:56.135 [main] INFO  Pages.MainPage - Clicked on categories
+2021-12-27 13:08:36.208 [main] INFO  Pages.MainPage - Clicked on Location
+2021-12-27 13:08:37.167 [main] INFO  Pages.MainPage - Clicked on City Selector
+2021-12-27 13:09:05.123 [main] INFO  Pages.MainPage - Item selected: İstanbul
+2021-12-27 13:09:06.127 [main] INFO  Pages.MainPage - Clicked on Town Selector
+2021-12-27 13:09:13.931 [main] INFO  Pages.MainPage - Item selected: Beşiktaş
+2021-12-27 13:09:14.912 [main] INFO  Pages.MainPage - Clicked on District Selector
+2021-12-27 13:09:31.118 [main] INFO  Pages.MainPage - Item selected: Yıldız
+2021-12-27 13:09:32.087 [main] INFO  Pages.MainPage - Clicked on save location
+2021-12-27 13:09:32.820 [main] INFO  Pages.MainPage - Location saved successfully
+2021-12-27 13:09:35.962 [main] INFO  Pages.MainPage - Clicked on categories
+2021-12-27 13:09:38.177 [main] INFO  Pages.CategoriesPage - Random Category Number : 4
+2021-12-27 13:09:40.362 [main] INFO  Pages.CategoryPage - TextView Location: İstanbul
+2021-12-27 13:10:49.034 [main] INFO  Pages.MainPage - Clicked on super prices
+2021-12-27 13:10:50.561 [main] INFO  Pages.SuperPricePage - Selected item with multiple images
+2021-12-27 13:11:41.023 [main] INFO  Pages.ProductPage - Scrolled until the end
+2021-12-27 13:11:41.192 [main] INFO  Pages.ProductPage - Clicked on back button
+2021-12-27 13:13:13.984 [main] INFO  Pages.ProductPage - Clicked on favorites button
+2021-12-27 13:23:21.311 [main] INFO  Pages.MainPage - Clicked on super prices
+2021-12-27 13:25:17.950 [main] INFO  Pages.MainPage - Clicked on super prices
+2021-12-27 13:25:24.657 [main] INFO  Pages.SuperPricePage - Selected item with multiple images
+2021-12-27 13:26:15.883 [main] INFO  Pages.ProductPage - Scrolled until the end
+2021-12-27 13:26:16.035 [main] INFO  Pages.ProductPage - Clicked on back button
+2021-12-27 13:27:38.548 [main] INFO  Pages.ProductPage - Clicked on favorites button

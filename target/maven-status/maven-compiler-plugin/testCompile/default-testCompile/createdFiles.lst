@@ -1,0 +1,9 @@
+Pages\MainPage.class
+Pages\ProductPage.class
+Pages\SuperPricePage.class
+stepDefinitions\MyStepdefs.class
+Pages\CategoriesPage.class
+TestRunner\TestRunner.class
+Pages\CategoryPage.class
+Pages\LoginPage.class
+Pages\ListPage.class

@@ -1,0 +1,14 @@
+-------------------------------------------------------------------------------
+Test set: TestRunner.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 414.073 s <<< FAILURE! - in TestRunner.TestRunner
+Hepsiburada Case File.Super Fiyat Favoriler  Time elapsed: 335.183 s  <<< ERROR!
+org.openqa.selenium.NoSuchElementException: Can't locate an element by this strategy: By.chained({By.id: com.pozitron.hepsiburada:id/price})
+Caused by: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction@1e43e323 (tried for 1 second(s) with 500 milliseconds interval)
+Caused by: org.openqa.selenium.NoSuchElementException: 
+Cannot locate an element using By.chained({By.id: com.pozitron.hepsiburada:id/price})
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-RSVC8JN', ip: '192.168.2.176', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_271'
+Driver info: driver.version: AndroidDriver
+

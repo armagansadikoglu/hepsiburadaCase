@@ -1,0 +1,371 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2021-12-26T18:31:34.484Z",
+        "line": 5,
+        "name": "Lokasyon Kontrolu",
+        "description": "",
+        "id": "hepsiburada-case-file;lokasyon-kontrolu",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 18864000000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "\"Pixel_3a_API_29\" Isimli \"10\" Surumlu Cihaz ayaga kaldirilir",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Pixel_3a_API_29\"",
+                  "offset": 0
+                },
+                {
+                  "val": "\"10\"",
+                  "offset": 25
+                }
+              ],
+              "location": "stepDefinitions.MyStepdefs.setup(java.lang.String,java.lang.String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 4087000000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Konuma tiklanir",
+            "match": {
+              "location": "stepDefinitions.MyStepdefs.clickLocation()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 24218000000,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "Il \"İstanbul\" secilir",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"İstanbul\"",
+                  "offset": 3
+                }
+              ],
+              "location": "stepDefinitions.MyStepdefs.ılSecilir(java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 6444000000,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "Ilce \"Beşiktaş\" secilir",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Beşiktaş\"",
+                  "offset": 5
+                }
+              ],
+              "location": "stepDefinitions.MyStepdefs.ılceSecilir(java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 12845000000,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "Mahalle \"Yıldız\" secilir",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Yıldız\"",
+                  "offset": 8
+                }
+              ],
+              "location": "stepDefinitions.MyStepdefs.mahalleSecilir(java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 662000000,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "Konum Kaydet Butonuna Tiklanir",
+            "match": {
+              "location": "stepDefinitions.MyStepdefs.konumKaydetButonunaTiklanir()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 746000000,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "Konum Kaydedildi Popupi Kontrol Edilir",
+            "match": {
+              "location": "stepDefinitions.MyStepdefs.konumKaydedildiPopupiKontrolEdilir()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3009000000,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "Kategoriler tabina tiklanir",
+            "match": {
+              "location": "stepDefinitions.MyStepdefs.kategorilerTabinaTiklanir()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2420000000,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "Kategorilerden rastgele kategori secilir",
+            "match": {
+              "location": "stepDefinitions.MyStepdefs.kategorilerdenRandomKategoriSecilir()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 4156000000,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "Kategori Konumu Dogru mu Kontrol Edilir",
+            "match": {
+              "location": "stepDefinitions.MyStepdefs.kategoriKonumuDogruMuKontrolEdilir()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 1167000000,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "Cihaz kapatilir",
+            "match": {
+              "location": "stepDefinitions.MyStepdefs.tearDown()"
+            },
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-12-26T18:32:53.177Z",
+        "line": 18,
+        "name": "Super Fiyat Favoriler",
+        "description": "",
+        "id": "hepsiburada-case-file;super-fiyat-favoriler",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 16126000000,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "\"Pixel_3a_API_29\" Isimli \"10\" Surumlu Cihaz ayaga kaldirilir",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Pixel_3a_API_29\"",
+                  "offset": 0
+                },
+                {
+                  "val": "\"10\"",
+                  "offset": 25
+                }
+              ],
+              "location": "stepDefinitions.MyStepdefs.setup(java.lang.String,java.lang.String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 8595000000,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "Super Fiyata Tiklanir",
+            "match": {
+              "location": "stepDefinitions.MyStepdefs.superFiyataTiklanir()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 792000000,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "Birden Fazla Gorselli Urun Secilir",
+            "match": {
+              "location": "stepDefinitions.MyStepdefs.birdenFazlaGorselliUrunSecilir()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 32334000000,
+              "status": "passed"
+            },
+            "line": 22,
+            "name": "Urun Gorseline Tiklanir",
+            "match": {
+              "location": "stepDefinitions.MyStepdefs.urunGorselineTiklanir()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 17022000000,
+              "status": "passed"
+            },
+            "line": 23,
+            "name": "Yana Dogru Scroll Edilir",
+            "match": {
+              "location": "stepDefinitions.MyStepdefs.yanaDogruScrollEdilir()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 237000000,
+              "status": "passed"
+            },
+            "line": 24,
+            "name": "Gorsel Ekrani Kapatilir",
+            "match": {
+              "location": "stepDefinitions.MyStepdefs.gorselEkraniKapatilir()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 83704000000,
+              "status": "passed"
+            },
+            "line": 25,
+            "name": "Urun Detayda Favori Butonuna Tiklanir",
+            "match": {
+              "location": "stepDefinitions.MyStepdefs.urunDetaydaFavoriButonunaTiklanir()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 11825000000,
+              "status": "passed"
+            },
+            "line": 26,
+            "name": "\"armagansadikoglu@hotmail.com\" ve \"hbarmo97\" ile login Olunur",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"armagansadikoglu@hotmail.com\"",
+                  "offset": 0
+                },
+                {
+                  "val": "\"hbarmo97\"",
+                  "offset": 34
+                }
+              ],
+              "location": "stepDefinitions.MyStepdefs.veIleLoginOlunur(java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 21556000000,
+              "status": "passed"
+            },
+            "line": 27,
+            "name": "Urun Detayda Geri Butonuna Tiklanir",
+            "match": {
+              "location": "stepDefinitions.MyStepdefs.urunDetaydaGeriButonunaTiklanir()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 107000000,
+              "status": "passed"
+            },
+            "line": 28,
+            "name": "Listelerim Butonuna Tiklanir",
+            "match": {
+              "location": "stepDefinitions.MyStepdefs.listelerimButonunaTiklanir()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 9773000000,
+              "status": "passed"
+            },
+            "line": 29,
+            "name": "Begendiklerim Butonuna Tiklanir",
+            "match": {
+              "location": "stepDefinitions.MyStepdefs.begendiklerimButonunaTiklanir()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "error_message": "org.openqa.selenium.NoSuchElementException: Can\u0027t locate an element by this strategy: By.chained({By.id: com.pozitron.hepsiburada:id/price})\r\n\tat io.appium.java_client.pagefactory.AppiumElementLocator.findElement(AppiumElementLocator.java:126)\r\n\tat io.appium.java_client.pagefactory.interceptors.InterceptorOfASingleElement.intercept(InterceptorOfASingleElement.java:59)\r\n\tat io.appium.java_client.android.AndroidElement$$EnhancerByCGLIB$$b598166c.getText(\u003cgenerated\u003e)\r\n\tat Pages.ListPage.checkIfItemAddedOnLikedItems(ListPage.java:59)\r\n\tat stepDefinitions.MyStepdefs.urununFavorilereEklendigiKontrolEdilir(MyStepdefs.java:178)\r\n\tat ✽.Urunun Favorilere Eklendigi Kontrol Edilir(file:///C:/Users/EVPC/IdeaProjects/hepsiburadaCase/src/test/java/Features/case.feature:30)\r\nCaused by: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction@1e43e323 (tried for 1 second(s) with 500 milliseconds interval)\r\n\tat org.openqa.selenium.support.ui.FluentWait.timeoutException(FluentWait.java:304)\r\n\tat org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)\r\n\tat io.appium.java_client.pagefactory.AppiumElementLocator.waitFor(AppiumElementLocator.java:99)\r\n\tat io.appium.java_client.pagefactory.AppiumElementLocator.findElement(AppiumElementLocator.java:119)\r\n\tat io.appium.java_client.pagefactory.interceptors.InterceptorOfASingleElement.intercept(InterceptorOfASingleElement.java:59)\r\n\tat io.appium.java_client.android.AndroidElement$$EnhancerByCGLIB$$b598166c.getText(\u003cgenerated\u003e)\r\n\tat Pages.ListPage.checkIfItemAddedOnLikedItems(ListPage.java:59)\r\n\tat stepDefinitions.MyStepdefs.urununFavorilereEklendigiKontrolEdilir(MyStepdefs.java:178)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)\r\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\r\n\tat java.lang.reflect.Method.invoke(Method.java:498)\r\n\tat io.cucumber.java.Invoker.doInvoke(Invoker.java:66)\r\n\tat io.cucumber.java.Invoker.invoke(Invoker.java:24)\r\n\tat io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47)\r\n\tat io.cucumber.java.JavaStepDefinition.execute(JavaStepDefinition.java:29)\r\n\tat io.cucumber.core.runner.CoreStepDefinition.execute(CoreStepDefinition.java:66)\r\n\tat io.cucumber.core.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:63)\r\n\tat io.cucumber.core.runner.ExecutionMode$1.execute(ExecutionMode.java:10)\r\n\tat io.cucumber.core.runner.TestStep.executeStep(TestStep.java:92)\r\n\tat io.cucumber.core.runner.TestStep.run(TestStep.java:64)\r\n\tat io.cucumber.core.runner.PickleStepTestStep.run(PickleStepTestStep.java:51)\r\n\tat io.cucumber.core.runner.TestCase.run(TestCase.java:104)\r\n\tat io.cucumber.core.runner.Runner.runPickle(Runner.java:73)\r\n\tat io.cucumber.junit.PickleRunners$NoStepDescriptions.run(PickleRunners.java:151)\r\n\tat io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:135)\r\n\tat io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:27)\r\n\tat org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)\r\n\tat org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)\r\n\tat org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:413)\r\n\tat io.cucumber.junit.Cucumber.runChild(Cucumber.java:200)\r\n\tat io.cucumber.junit.Cucumber.runChild(Cucumber.java:90)\r\n\tat org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)\r\n\tat org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)\r\n\tat io.cucumber.junit.Cucumber$RunCucumber.evaluate(Cucumber.java:235)\r\n\tat org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:413)\r\n\tat org.junit.runner.JUnitCore.run(JUnitCore.java:137)\r\n\tat org.junit.runner.JUnitCore.run(JUnitCore.java:115)\r\n\tat org.junit.vintage.engine.execution.RunnerExecutor.execute(RunnerExecutor.java:43)\r\n\tat java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:184)\r\n\tat java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:193)\r\n\tat java.util.Iterator.forEachRemaining(Iterator.java:116)\r\n\tat java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1801)\r\n\tat java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:482)\r\n\tat java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:472)\r\n\tat java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:151)\r\n\tat java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:174)\r\n\tat java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)\r\n\tat java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:418)\r\n\tat org.junit.vintage.engine.VintageTestEngine.executeAllChildren(VintageTestEngine.java:82)\r\n\tat org.junit.vintage.engine.VintageTestEngine.execute(VintageTestEngine.java:73)\r\n\tat org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:108)\r\n\tat org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:88)\r\n\tat org.junit.platform.launcher.core.EngineExecutionOrchestrator.lambda$execute$0(EngineExecutionOrchestrator.java:54)\r\n\tat org.junit.platform.launcher.core.EngineExecutionOrchestrator.withInterceptedStreams(EngineExecutionOrchestrator.java:67)\r\n\tat org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:52)\r\n\tat org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:96)\r\n\tat org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:75)\r\n\tat org.apache.maven.surefire.junitplatform.JUnitPlatformProvider.execute(JUnitPlatformProvider.java:188)\r\n\tat org.apache.maven.surefire.junitplatform.JUnitPlatformProvider.invokeAllTests(JUnitPlatformProvider.java:154)\r\n\tat org.apache.maven.surefire.junitplatform.JUnitPlatformProvider.invoke(JUnitPlatformProvider.java:128)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:428)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:562)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:548)\r\nCaused by: org.openqa.selenium.NoSuchElementException: Cannot locate an element using By.chained({By.id: com.pozitron.hepsiburada:id/price})\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: \u00273.141.59\u0027, revision: \u0027e82be7d358\u0027, time: \u00272018-11-14T08:17:03\u0027\nSystem info: host: \u0027DESKTOP-RSVC8JN\u0027, ip: \u0027192.168.2.176\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_271\u0027\nDriver info: driver.version: AndroidDriver\r\n\tat io.appium.java_client.pagefactory.bys.builder.ByChained.findElement(ByChained.java:74)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)\r\n\tat io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:57)\r\n\tat io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)\r\n\tat io.appium.java_client.android.AndroidDriver.findElement(AndroidDriver.java:1)\r\n\tat io.appium.java_client.pagefactory.bys.ContentMappedBy.findElement(ContentMappedBy.java:50)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)\r\n\tat io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:57)\r\n\tat io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)\r\n\tat io.appium.java_client.android.AndroidDriver.findElement(AndroidDriver.java:1)\r\n\tat io.appium.java_client.pagefactory.AppiumElementLocator.lambda$0(AppiumElementLocator.java:120)\r\n\tat io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction.apply(AppiumElementLocator.java:172)\r\n\tat io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction.apply(AppiumElementLocator.java:1)\r\n\tat org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)\r\n\t... 71 more\r\n",
+              "duration": 133100000000,
+              "status": "failed"
+            },
+            "line": 30,
+            "name": "Urunun Favorilere Eklendigi Kontrol Edilir",
+            "match": {
+              "location": "stepDefinitions.MyStepdefs.urununFavorilereEklendigiKontrolEdilir()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 31,
+            "name": "Cihaz kapatilir",
+            "match": {
+              "location": "stepDefinitions.MyStepdefs.tearDown()"
+            },
+            "keyword": "And "
+          }
+        ]
+      }
+    ],
+    "name": "Hepsiburada Case File",
+    "description": "",
+    "id": "hepsiburada-case-file",
+    "keyword": "Feature",
+    "uri": "file:src/test/java/Features/case.feature",
+    "tags": []
+  }
+]
